@@ -1,0 +1,30 @@
+.gridstyle{
+	-fx-background-color: grey;
+	-fx-grid-lines-visible: true;
+	-fx-align: center;
+	-fx-alignment: "CENTER";
+}
+
+.button{
+    -fx-font-size: 16px;
+    -fx-background-color: linear-gradient(to top, lightgrey, grey);
+    -fx-font-color: white;
+    -fx-padding: 10px;
+    -fx-border-insets: 3px;
+    -fx-background-insets: 3px;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+    -fx-font-weight: bold;
+}
+.label{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-margin: 0 auto;
+}
+
+.textField{
+	-fx-margin: 10px;
+	-fx-padding: 10px;
+}
+
+
